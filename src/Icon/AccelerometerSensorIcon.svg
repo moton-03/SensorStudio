@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458333"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   sodipodi:docname="AccelerometerSensorIcon.svg"
+   inkscape:export-filename="AccelerometerSensorIcon.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="true"
+     inkscape:zoom="9.44"
+     inkscape:cx="58.686441"
+     inkscape:cy="47.881356"
+     inkscape:window-width="2256"
+     inkscape:window-height="1398"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1">
+    <inkscape:grid
+       id="grid9"
+       spacingx="2.6458333"
+       spacingy="2.6458333" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g1012"
+       transform="translate(0,0.26458255)">
+      <path
+         style="fill:#008080;fill-opacity:0.4;stroke-width:2.38125;stroke-linecap:round;stroke-linejoin:round"
+         id="path116"
+         sodipodi:type="arc"
+         sodipodi:cx="13.229166"
+         sodipodi:cy="18.520834"
+         sodipodi:rx="11.90625"
+         sodipodi:ry="11.90625"
+         sodipodi:start="3.1415927"
+         sodipodi:end="6.2831853"
+         sodipodi:arc-type="slice"
+         d="m 1.322916,18.520834 a 11.90625,11.90625 0 0 1 11.90625,-11.90625 11.90625,11.90625 0 0 1 11.90625,11.90625 h -11.90625 z" />
+      <path
+         style="fill:#008080;fill-opacity:0.4;stroke:#008080;stroke-width:1.5875;stroke-linecap:round;stroke-linejoin:round"
+         d="m 13.229167,18.520833 -7.9375004,-7.9375"
+         id="path1008" />
+    </g>
+  </g>
+</svg>
